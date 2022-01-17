@@ -1,4 +1,4 @@
-#include "colorbynumber.h"
+#include "GetColorByPairNumber.h"
 
 extern numberOfMinorColors;
 
