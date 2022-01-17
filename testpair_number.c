@@ -1,6 +1,6 @@
-#include "Colors.h"
-#include "numberbycolor.h"
-#include <assert.h>
+//#include "Colors.h"
+//#include "numberbycolor.h"
+//#include <assert.h>
 
 
 void testPairToNumber(
