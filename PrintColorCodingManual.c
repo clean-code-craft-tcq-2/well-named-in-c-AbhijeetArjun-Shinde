@@ -12,7 +12,7 @@ void ColorCodingManual()
 		ColorPair colorPair = GetColorFromPairNumber(pairNumber);
 		char colorPairNames[MAX_COLORPAIR_NAME_CHARS];
 		ColorPairToString(&colorPair, colorPairNames);
-		printf("%s --> %d\n", colorPairNames, pairNumber);
+		printf("%s --> PairNo: %d\n", colorPairNames, pairNumber);
     pairNumber++;
 	}
 }
