@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "Colors.h"
 #include "GetColorByPairNumber.h"
 #include "GetPairNumberByColor.h"
 #include "PrintColorCodingManual.h"
