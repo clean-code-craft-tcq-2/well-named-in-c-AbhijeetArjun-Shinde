@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "colorbynumber.h":
-#include "Colors.h"
+#include "colorbynumber.h"
 #include "numberbycolor.h"
 #include "testnumber_pair.h"
 #include "testpair_number.h"
