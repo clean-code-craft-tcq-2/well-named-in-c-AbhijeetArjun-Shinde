@@ -1,4 +1,7 @@
 #include "colorbynumber.h"
+
+extern numberOfMinorColors;
+
 ColorPair GetColorFromPairNumber(int pairNumber) {
     ColorPair colorPair;
     int zeroBasedPairNumber = pairNumber - 1;
