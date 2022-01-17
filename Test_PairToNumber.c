@@ -1,5 +1,5 @@
 
-#include "numberbycolor.h"
+#include "GetPairNumberByColor.h"
 #include <assert.h>
 
 
