@@ -1,5 +1,5 @@
 
-#include "colorbynumber.h"
+#include "GetColorByPairNumber.h"
 #include <assert.h>
 
 void testNumberToPair(int pairNumber,
