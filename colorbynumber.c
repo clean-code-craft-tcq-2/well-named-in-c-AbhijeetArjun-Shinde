@@ -1,4 +1,4 @@
-#include "Colors.h"
+#include "colorbynumber.h"
 ColorPair GetColorFromPairNumber(int pairNumber) {
     ColorPair colorPair;
     int zeroBasedPairNumber = pairNumber - 1;
