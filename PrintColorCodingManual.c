@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "GetColorByPairNumber.h"
-#include "GetPairNumberByColor.h"
 #include "PrintColorCodingManual.h"
 
 void ColorCodingManual()
@@ -14,6 +13,6 @@ void ColorCodingManual()
 		char colorPairNames[MAX_COLORPAIR_NAME_CHARS];
 		ColorPairToString(&colorPair, colorPairNames);
 		printf("%s --> %d\n", colorPairNames, pairNumber);
-    pairNumber++
+    pairNumber++;
 	}
 }
