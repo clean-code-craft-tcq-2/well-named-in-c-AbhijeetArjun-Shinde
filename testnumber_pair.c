@@ -1,4 +1,4 @@
-#include "Colors.h"
+
 #include "colorbynumber.h"
 #include <assert.h>
 
